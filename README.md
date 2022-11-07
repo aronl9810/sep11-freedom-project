@@ -1,11 +1,11 @@
 # SEP11 Freedom Project
-by X
+by Aron Lin
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about me making a game mod. The purpose of this blog is to demonstate how I was able to make the mod and the challenges I faced during my journey of making this mod.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a Friday Night Funkin mod using Psych Engine. This blog will walk through my process of independently studying of Lua in order to make this mod.
 
 ## Links
 
