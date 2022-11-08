@@ -11,6 +11,12 @@ I had a interesting idea in mind. One of which was making a Friday Night Funkin 
 
 Once I got permission to do this project, I got straight to work. I needed an engine that is simple enough for me to work on. Thankfully, PsychEngine does the job. All of the intergrations of PsychEngine are made simpiler. All you need to do is adding scripts that make your mod interesting compared to the rest.
 
+The big mistake that I made was using the source code instead of the download version. When I downloaded the source code, it gave me so many headaches. I have to install so many programs that it didn't work in the end. I thought I have to abandon this project until I realized that I can avoid the hassle just by downloading the downloadable version. You cannot believe how long I spend trying to figure out how to get the source code up and running. 
+
+I tynkered a lot with the downloaded version although I didn't tynker that much because I didn't have the tools ready yet. Mostly all of psych engines tutorials assume that you have the song as well as its chart. Without them, the week won't load and psych engine ends up crashing.
+
+That is all. I plan on making my song and the chart for my project so I can tynker with this mod further. I also plan on learning Lua, since that is what the mod uses for scripting. I cannot wait for the day this project is completed.
+
 [Next](entry02.md)
 
 [Home](../README.md)
