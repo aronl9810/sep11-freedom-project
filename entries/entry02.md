@@ -5,9 +5,11 @@ So I'm at the point of tynkering with Psych Engine. I learned quite a bit and I 
 
 After following a [psych engine tutorial](https://youtu.be/qxMyoudrFPs) made by BB--panzu. I learned how many things work around psych engine. I decided that I don't mess around with the sprite sheet yet since I don't have the material to tynker with that yet. I am planning to [collab](https://hstatsep.github.io/students/#skills) with Dice to make a character and converting it into a sprite sheet. 
 
-I want to talk about 2 parts of what I experienced so far. The chart editor and the song. 
+I want to talk about 2 parts of what I experienced so far. The week editor, the chart editor, and the song. 
 
-## The song
+## The Week Editor
+
+## The Song
 
 The song is pretty interesting. It is split up into 2 parts. The instrument and the vocals.
 
@@ -16,6 +18,19 @@ The intrument is explanatory. It is the instrumental of the song and the vocals 
 Now for my tynkering, I decided to use [jummbox](https://jummbus.bitbucket.io) for my testing for my instrumental. This was recommended by the Friday Night Funkin Modding Community for beginners. 
 
 For the vocals, I decided to use a random sound effect as I haven't watched the tutorial on making vocals yet. I am planning to use this [tutorial](https://youtu.be/pc8c-A0AJX4) I found by doing some [research](https://hstatsep.github.io/students/#skills). 
+
+So now where do you get to place it? Well I'm glad you ask. Assuming you go into your mod dictionary and into your created mod folder, you would want to go into the `songs` folder.
+
+![image](../img/FreedomProject-1.png)
+
+Then you would have to name your song folder. This is very important cause the same name has to be used for the charting. 
+
+The final step is just adding it into your song folder. The engine **only** accepted `.ogg` files and they have to be named `Inst.ogg` for instrument of the song and `Voices.ogg` for the vocals of the song. This is where [Audacity](https://www.audacityteam.org) comes in and helps converting any song into .ogg files. 
+
+![image](../img/FreedomProject-2.png)
+
+## The Chart Editor
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
