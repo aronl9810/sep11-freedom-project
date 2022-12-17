@@ -73,7 +73,19 @@ Now here we see 3 sides of the chart editor. The first one with the Play button 
 
 The second one (The one with the blue boy icon) is where the player must hit their notes and the third one (One with the Grinny purple boy) is the opponents notes. Note that the opponent notes will hit basically every note along its path. 
 
+You as the player must hit your note and you will lose hp if you miss. However pressing your notes will increase your hp. This means that the chart must be fair and not frustrating to play.
 
+Now in order to place a note, you must click on the boxes and a note will appear. It is simple as that. I havent really test out anything further just yet. I made a simple chart and thats all.
+
+Once you got your barebones chart, you want to initally create a folder first with the name the same as your song folder. We will place this in our data folder. 
+
+![image](../img/FreedomProject-10.png)
+
+Once we created our folder, go back into the engine and click on Save. It should create a .json file with the chart.
+
+![image](../img/FreedomProject-11.png)
+
+Now once we done that, our chart is ready to play. However we only created a normal difficulty chart. Friday Night Funkin has 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
