@@ -5,7 +5,7 @@ So I'm at the point of tynkering with Psych Engine. I learned quite a bit and I 
 
 After following a [psych engine tutorial](https://youtu.be/qxMyoudrFPs) made by BB--panzu. I learned how many things work around psych engine. I decided that I don't mess around with the sprite sheet yet since I don't have the material to tynker with that yet. I am planning to [collab](https://hstatsep.github.io/students/#skills) with Dice to make a character and converting it into a sprite sheet. 
 
-I want to talk about 2 parts of what I experienced so far. The week editor, the chart editor, and the song. 
+I want to talk about 3 parts of what I experienced so far. The week editor, the chart editor, and the song. 
 
 ## The Week Editor
 
@@ -53,6 +53,13 @@ The final step is just adding it into your song folder. The engine **only** acce
 
 ## The Chart Editor
 
+So now we have the week and the songs in right? Surely we can play our songs right?
+
+**WRONG!** If you try to load up the week or the song in freeplay, Psych Engine will crash. This is because the song in question does not have a chart. 
+
+This is what you will see...
+
+![image](../img/FreedomProject-7.png)
 
 [Previous](entry01.md) | [Next](entry03.md)
 
