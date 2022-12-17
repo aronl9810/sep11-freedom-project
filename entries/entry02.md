@@ -61,6 +61,20 @@ This is what you will see...
 
 ![image](../img/FreedomProject-7.png)
 
+So we need to make the chart right? Well if we go back into the editor menu, we need to scroll down into the chart editor. We also need to make sure that the engine knows the current dictionary. In my case, this would be `testmod`.
+
+![image](../img/FreedomProject-8.png)
+
+Once were in the chart editor, we are greeted with this chart editor. Psych Engine makes the charting easier compared to the stock charter.
+
+![image](../img/FreedomProject-9.png)
+
+Now here we see 3 sides of the chart editor. The first one with the Play button and a paper is where the scriping goes. If it reaches that point, then a lua command is runned. The second and third one is where our music happens. 
+
+The second one (The one with the blue boy icon) is where the player must hit their notes and the third one (One with the Grinny purple boy) is the opponents notes. Note that the opponent notes will hit basically every note along its path. 
+
+
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
