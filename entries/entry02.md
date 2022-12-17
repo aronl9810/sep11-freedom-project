@@ -9,6 +9,28 @@ I want to talk about 2 parts of what I experienced so far. The week editor, the 
 
 ## The Week Editor
 
+Your modding first starts here with the week editor. You won't get anywhere without it. 
+
+When you boot up Friday Night Funkin, you will see your average music game with a lot of menu buttons. But we aren't here for that, we want to make a mod. The first step you want to do is right after you press ENTER, you want to press **7**. This will bring up the editor.
+
+![image](../img/FreedomProject-3.png)
+
+Then you want to press the week editor here. We don't want to do anything else first. 
+
+![image](../img/FreedomProject-4.png)
+
+Now it may look intimidating at first but it is very simple to break down but we are most interested in the song tab. 
+
+For our testing, we will only use one song for now. If you add more songs into the week, once the first song is done then the second song goes up. 
+
+For the song here, we will put `testsong` as our song. The rest we can pretty much mess around here like the `Display Name` and the `Characters`.
+
+![image](../img/FreedomProject-5.png)
+
+Then after that is done, we can press **Load Week** and save it into the `Weeks` folder and then we can move on to the songs. 
+
+![image](../img/FreedomProject-6.png)
+
 ## The Song
 
 The song is pretty interesting. It is split up into 2 parts. The instrument and the vocals.
