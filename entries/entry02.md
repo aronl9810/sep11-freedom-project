@@ -11,7 +11,7 @@ I want to talk about 3 parts of what I experienced so far. The week editor, the 
 
 Your modding first starts here with the week editor. You won't get anywhere without it. 
 
-When you boot up Friday Night Funkin, you will see your average music game with a lot of menu buttons. But we aren't here for that, we want to make a mod. The first step you want to do is right after you press ENTER, you want to press **7**. This will bring up the editor.
+When you boot up Friday Night Funkin, you will see your average music game with a lot of menu buttons. But we aren't here for that, we want to make a mod. The first step you want to do is right after you press **ENTER**, you want to press **7**. This will bring up the editor.
 
 ![image](../img/FreedomProject-3.png)
 
