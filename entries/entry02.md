@@ -85,7 +85,17 @@ Once we created our folder, go back into the engine and click on Save. It should
 
 ![image](../img/FreedomProject-11.png)
 
-Now once we done that, our chart is ready to play. However we only created a normal difficulty chart. Friday Night Funkin has 
+Now once we done that, our chart is ready to play. However we only created a normal difficulty chart. Friday Night Funkin has 3 sets of difficulty. Easy , Medium, and Hard. They all have their unique file name.
+
+```
+Easy - thesongname-easy.json
+Normal - thesongname.json
+Hard - thesongname-hard.json
+```
+
+For the test, I chose to copy and paste my chart and renamed the files as described above. 
+
+Thats for my tynkering for this day. I am planning to do custom characters next. 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
