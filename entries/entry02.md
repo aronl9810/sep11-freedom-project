@@ -1,5 +1,5 @@
 # Entry 2
-Getting to know the Psych Engine 12/17/2022
+## Getting to know the Psych Engine 12/17/2022
 
 So I'm at the point of tynkering with Psych Engine. I learned quite a bit and I want to share my experience with you.
 
