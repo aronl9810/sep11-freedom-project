@@ -7,7 +7,7 @@ After following a [psych engine tutorial](https://youtu.be/qxMyoudrFPs) made by 
 
 I want to talk about 3 parts of what I experienced so far. The week editor, the chart editor, and the song. 
 
-## The Week Editor
+### The Week Editor
 
 Your modding first starts here with the week editor. You won't get anywhere without it. 
 
@@ -31,7 +31,7 @@ Then after that is done, we can press **Load Week** and save it into the `Weeks`
 
 ![image](../img/FreedomProject-6.png)
 
-## The Song
+### The Song
 
 The song is pretty interesting. It is split up into 2 parts. The instrument and the vocals.
 
@@ -51,7 +51,7 @@ The final step is just adding it into your song folder. The engine **only** acce
 
 ![image](../img/FreedomProject-2.png)
 
-## The Chart Editor
+### The Chart Editor
 
 So now we have the week and the songs in right? Surely we can play our songs right?
 
