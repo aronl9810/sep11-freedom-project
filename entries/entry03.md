@@ -5,7 +5,7 @@ I finally chose my topic for my Friday Night Funkin mod. Although it took me a l
 
 Now that my topic of the mod was settled it was time for the plan. My plan for this is to make one music, one chart, one character, and one unique sequence as part of the MVP.
 
-Lets start off my journey with finding a music software that I will be using. The first [Jummbox](jummbux.bitbracket.io) which is a free in-browser music maker. Although it does make music, it was pretty barebones as it only has a select instruments and the layout is a bit confusing. 
+Lets start off my journey with finding a music software that I will be using. The first [Jummbox](https://jummbus.bitbucket.io) which is a free in-browser music maker. Although it does make music, it was pretty barebones as it only has a select instruments and the layout is a bit confusing. 
 
 **The image here**
 
