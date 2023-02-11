@@ -30,6 +30,13 @@ Once I followed Longestsoloever tutorial, I wanted to tynker with the software a
 
 ![image](../img/FreedomProject-2a.png)
 
+While I was working on this, I stumbled across DelFino. Delfino was one of the teachers who is currently teaching Music at HSTAT. Since then, he came back into the building to come back teaching. We met each other in the lunchroom and he told me about Ableton Lite. He told me that it is free and should use it once my free trial period expires. He even told me to message him for more Ableton tutorials. I was glad that I talked to him and I hope I can make some music that will fit nicely with my mod.
+
+This music journey was just the start but I've learned so much. I had research a music software that I can condifently use and make sure it lived up to expectations. Now that I found my software, I can finally start creating music. 
+
+But I can't rest yet, I still have to do the Art and coding before I get too relaxed. To prevent any more time wasting, I managed my time using the reminder app on my phone to keep me on pace.
+
+And that is pretty much the start of the music journey here. See you for the result then!
 
 [Previous](entry02.md) | [Next](entry04.md)
 
