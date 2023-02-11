@@ -15,7 +15,9 @@ Problems arise when I used it. It is basically borderline confusing and annoying
 
 The first problem I see with FL studio is that there is so much clutter everywhere. To a beginner, I have no idea where to start at all. Despite the fact I watched a tutorial on FL studio, I still cannot get my head wrapped around how the thing functions. The layout is confusing.
 
-The most annoying part is undoing certain actions. Normally when you undo with `CTRL + Z` you can press it how many times you want until you want it to stop. In FL studio,
+The most annoying part is undoing certain actions. Normally when you undo with `CTRL + Z` you can press it how many times you want until you want it to stop. In FL studio, it will undo only one action. Pressing `CTRL + Z` will bring back that undo the action. Not only that, but there are so many workarounds with Fl studio that it is just not worth learning.
+
+This brought me to [Garageband](https://www.apple.com/mac/garageband/) which is a free apple music software. 
 
 **image here**
 
