@@ -17,7 +17,14 @@ The first problem I see with FL studio is that there is so much clutter everywhe
 
 The most annoying part is undoing certain actions. Normally when you undo with `CTRL + Z` you can press it how many times you want until you want it to stop. In FL studio, it will undo only one action. Pressing `CTRL + Z` will bring back that undo the action. Not only that, but there are so many workarounds with Fl studio that it is just not worth learning.
 
-This brought me to [Garageband](https://www.apple.com/mac/garageband/) which is a free apple music software. 
+This brought me to [Garageband](https://www.apple.com/mac/garageband/) which is a free apple music software. Since I had imacs in the computer lab and at home, this was pretty accessible since I can transfer the file once I'm done with my period of SEP. 
+
+Garageband was nice and it was possible to make a Friday Night Funkin song but there weren't a lot of tutorials for it and only a select few only use it. So far, I seen 
+[Mising0pX](https://www.youtube.com/watch?v=NiSGXkodsek) used Garageband for their song and a couple of others but thats it. No tutorials or anything.
+
+But then I remember something. I recalled someone who is very good at specializing in music and makes tutorial for beginners.
+
+[Longestsoloever](https://www.youtube.com/@longestsoloever) is a music producer and once a teacher makes [tutorial](https://www.youtube.com/watch?v=m_LkC-liYkc&list=PLfb6KneL63QsQ58tj-RkDCHRmheAofPJj) for people who are starting music production. His tutorials are great and he recommends [Ableton Live](https://www.ableton.com/en/live/) for new music producers. 
 
 **image here**
 
