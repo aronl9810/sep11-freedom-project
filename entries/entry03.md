@@ -24,9 +24,11 @@ Garageband was nice and it was possible to make a Friday Night Funkin song but t
 
 But then I remember something. I recalled someone who is very good at specializing in music and makes tutorial for beginners.
 
-[Longestsoloever](https://www.youtube.com/@longestsoloever) is a music producer and once a teacher makes [tutorial](https://www.youtube.com/watch?v=m_LkC-liYkc&list=PLfb6KneL63QsQ58tj-RkDCHRmheAofPJj) for people who are starting music production. His tutorials are great and he recommends [Ableton Live](https://www.ableton.com/en/live/) for new music producers. 
+[Longestsoloever](https://www.youtube.com/@longestsoloever) is a music producer and once a teacher makes [tutorial](https://www.youtube.com/watch?v=m_LkC-liYkc&list=PLfb6KneL63QsQ58tj-RkDCHRmheAofPJj) for people who are starting music production. His tutorials are great and he recommends [Ableton Live](https://www.ableton.com/en/live/) for new music producers. Since then, I was stunned with how generous Ableton is. Of course it isn't free but it gives you a **90 Day free trial**. When I first saw this I was stunned. FL studio was a 30 day free trial but Ableton really wants their beginners to get into music production. 
 
-**image here**
+Once I followed Longestsoloever tutorial, I wanted to tynker with the software and make something that I would actually like in my mod. Here is what I have currently.
+
+![image](../img/FreedomProject-2a.png)
 
 
 [Previous](entry02.md) | [Next](entry04.md)
