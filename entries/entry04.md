@@ -9,7 +9,18 @@ So far, I have been trying to make the instruments good sound as possible while 
 
 You can see that when I reach my desired bar limit, I change part of the song. This is to prevent the music from sounding repetitive. This is a part of [Music theory](https://hstatsep.github.io/students/#skills), a skill that I am trying to be good at. Music theory allows me to understand what instruments fit well with the current piece I'm trying to create as well as how it teaches me how music is written as a whole.
 
-While working on my music, I was also getting [better at using Ableton](https://hstatsep.github.io/students/#skills). When I was creating and learning about music theory, I felt like Ableton was basically second nature to me. Knowing how a software works can be crutial as it can shift how well you can do since you are basically at the programs mercy to give you something easy to learn. 
+While working on my music, I was also getting [better at using Ableton](https://hstatsep.github.io/students/#skills). When I was creating and learning about music theory, I felt like Ableton was basically second nature to me. Knowing how a software works can be crutial as it can shift how well you can do since you are basically at the programs mercy to give you something easy to learn. When I was working with FL studio, I felt like the program was difficult for me to learn but I was able to quickly switch out of FL studio. When I was working with Ableton however, thanks to LongestSoloEver, I was able to understand what FL studio does and his instructions was clear compared to other FL studio tutorial. Choosing your program is subjective and there is no right answer what program is the best, it is just whichever feels more comfortable and easy for the person.
+
+I've also watched another [LongestSoloEver's tutorial](https://youtu.be/hS7twgQOUvc?list=PLfb6KneL63QsQ58tj-RkDCHRmheAofPJj) which is how to write songs. This is how I know about the 4/8/16 bar rule. I've also seen what he does with his piano track as well as his bass. I also try to apply that concept here as well. I've also learned Song structure which is part of Music theory. His good piano structures are basically...
+```
+1 6 4 6
+
+1 5 6 4
+
+6 4 5 1
+
+6 5 4 1
+```
 
 
 [Previous](entry03.md) | [Next](entry05.md)
