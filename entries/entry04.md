@@ -25,6 +25,18 @@ I've also watched another [LongestSoloEver's tutorial](https://youtu.be/hS7twgQO
 
 Now you may not know what these numbers mean but it is actually very simple. These are the white keys in the piano section for each section of the piano. 
 
+![image](../img/FreedomProject-2b.png)
+
+The numbers I labels here correspond to all the white kets on that section. For example, you can see 1-7 only on the white keys on the whole row of **C2**. So in retrospect, it looks like this.
+
+```
+1 2 3 4 5 6 7
+C D E F G A B
+```
+
+Now you may be wondering why am I avoiding all the white keys. LongestSoloEver recommends everyone to avoid the black keys (or sharp keys) when creating music since they don't sound very good. I've actually learned this when watching this [video](https://youtu.be/kela6mWtIlU). Here he explains all common mistakes from new music producers making a song. Common mistakes having too many sound effects in a song, repetative music, etc. I have kept this in mind and avoiding these in my song. 
+
+As for the instrumental itself, I am completely finished with the instrumental and now I'm [communicating the result](https://hstatsep.github.io/students/#edp) of the instrumental of the EDP. For the vocals, I'm working on [brainstorming possible solutions](https://hstatsep.github.io/students/#edp) as I cannot get the vocal files to ableton currently. I will have to seek help as of currently. 
 
 [Previous](entry03.md) | [Next](entry05.md)
 
