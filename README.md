@@ -14,7 +14,11 @@ Product
 Presentation
 
 ## Implications
-X
+To create this Friday Night Funkin Mod, I will be using Psych Engine (Made by ShadowMario) as my base for my mod. Psych Engine has proven to be a huge beginner friendly mod as all of the features has been improved to be friendlier for modder upon the base game.
+
+I will also use Ableton recommended by Longestsoloever to create the instrumentals and the vocals for my song and the XML generator to create my spritesheet.
+
+On top of that, I will learn a new coding language which is Lua. I will use my knowledge of Javascript and Python to help me out here. 
 
 ---
 
