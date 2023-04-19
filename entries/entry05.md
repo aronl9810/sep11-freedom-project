@@ -43,7 +43,18 @@ Now why is it getting an error? That is because we haven't told the game where t
 
 ![image](../img/FreedomProject-6c.png)
 
+The sections we care about is the **Animaton** and the **Animation on .XML/.TXT file** since that is what we will be changing.
 
+In the animation tab, we will only be chaning the following...
+
+```
+singUP
+singLEFT
+singDOWN
+singRIGHT
+```
+
+The rest doesn't need to be changed since we aren't animating them anyways and the oppenent side isn't gonna use them anyways.We will use **SingLEFT** as our example here.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
