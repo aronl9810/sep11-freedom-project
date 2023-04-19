@@ -31,6 +31,18 @@ Surely with that out of the way, we can just place the spritesheet and the icons
 
 **WRONG**
 
+You will need to edit the character in Psych Engine before using it. You will need to go into the 7 menu and press the **Character Editor** button. Once there, you are greeted with this screen.
+
+![image](../img/FreedomProject-5c.png)
+
+The initial screen will have Boyfriend as default but you can change that with the **Image file name**. That will take the PNG of the spritesheet and display your character. You can also put the Health Icon in the **Health icon name**. Same concept that it will take the PNG of the spritesheet but will take the icon spritesheet. 
+
+When you change the directory in the **Image file name** box to your respective character, you will see a error next to the animation frame [The position where it says **singUP**, It would look like **singUP (ERROR)**]
+
+Now why is it getting an error? That is because we haven't told the game where the spritesheet position is. This is where the XML file comes in. It defines which parts of the animations are on the spritesheet. This is where we will go into the animation tab.
+
+![image](../img/FreedomProject-6c.png)
+
 
 
 [Previous](entry04.md) | [Next](entry06.md)
