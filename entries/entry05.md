@@ -108,6 +108,7 @@ While learning from the crash course, I took a handful of notes down as well. Th
 
 
 [Return to "Art Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#art-section)
+
 [Return to "Coding Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#coding-section)
 
 [Previous](entry04.md) | [Next](entry06.md)
