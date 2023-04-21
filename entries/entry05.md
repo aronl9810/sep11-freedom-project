@@ -5,9 +5,11 @@
 
 Due to the sheer absurdly long blog, I've linked every chapter that is present in this blog.
 
+[Go to "Art Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#art-section)
+
 [Go to "Coding Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#coding-section)
 
-### Art Section
+## Art Section
 With music finished, I got to the coding part of my freedom project. Now you may be asking. "But Aron, didn't you say that you are also gonna work on the sprites on the game? Why are you talking about coding now?". Great question fellow reader! There is a unique skill called [Collaboration](https://hstatsep.github.io/students/#skills) and [Commication](https://hstatsep.github.io/students/#skills). 
 
 Dice is a fellow SEP member as well as a digital artist. She was the perfect candidate to ask for help. She gladly accepted to create the sprites for me. Although I could make the sprites myself, her art style surpassed me. You can just see the difference between my art style versus hers later on.
@@ -92,7 +94,7 @@ Lets use our example here, if our animation frame is **SingLEFT** then we put `s
 
 Once we complete this, we save our character and place this in our **character** folder. 
 
-### Coding Section
+## Coding Section
 
 In Psych Engine, Lua is used to code scripts to trigger events in our game. ShadowMario was helpful enough to provide the [API page](https://github.com/ShadowMario/FNF-PsychEngine/wiki/Lua-Script-API) for anyone looking to code scripts into Psych Engine. 
 
@@ -104,7 +106,9 @@ While learning from the crash course, I took a handful of notes down as well. Th
 
 ![image](../img/FreedomProject-7c.png)
 
-[Go to "Art Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#art-section)
+
+[Return to "Art Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#art-section)
+[Return to "Coding Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#coding-section)
 
 [Previous](entry04.md) | [Next](entry06.md)
 
