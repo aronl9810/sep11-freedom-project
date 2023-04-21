@@ -1,6 +1,8 @@
 # Entry 5
 ## Sprites and Code. Two in one combo! 4/17/2023
 
+
+### Art Section
 With music finished, I got to the coding part of my freedom project. Now you may be asking. "But Aron, didn't you say that you are also gonna work on the sprites on the game? Why are you talking about coding now?". Great question fellow reader! There is a unique skill called [Collaboration](https://hstatsep.github.io/students/#skills) and [Commication](https://hstatsep.github.io/students/#skills). 
 
 Dice is a fellow SEP member as well as a digital artist. She was the perfect candidate to ask for help. She gladly accepted to create the sprites for me. Although I could make the sprites myself, her art style surpassed me. You can just see the difference between my art style versus hers later on.
@@ -56,6 +58,36 @@ singRIGHT
 
 The rest doesn't need to be changed since we aren't animating them anyways and the oppenent side isn't gonna use them anyways.We will use **SingLEFT** as our example here.
 
+We now focus our attention to the **Animation on .XML/.TXT file** box. You see the box that is named `sopfrie sopfrie left`. That is because we need to match the name with the XML file the spritesheet cordinates to. Lets look what the XML file looks like first!
+
+```html
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sopfrie.png">
+<SubTexture name="sopfrie sopfrie right0000" x="0" y="312" width="194" height="277" frameX="-44" frameY="-46" frameWidth="367" frameHeight="387" />
+<SubTexture name="sopfrie sopfrie up0000" x="472" y="0" width="178" height="295" frameX="-38" frameY="-66" frameWidth="263" frameHeight="427" />
+<SubTexture name="sopfrie sopfrie down0000" x="324" y="0" width="148" height="303" frameX="-31" frameY="-48" frameWidth="224" frameHeight="441" />
+<SubTexture name="sopfrie sopfrie left0000" x="159" y="0" width="165" height="306" frameX="-67" frameY="-97" frameWidth="310" frameHeight="491" />
+<SubTexture name="sopfrie sopfrie idle0000" x="0" y="0" width="159" height="312" frameX="-68" frameY="-135" frameWidth="301" frameHeight="560" />
+</TextureAtlas>
+```
+
+Pay attention to these names here, that is what we are looking for!
+
+```
+sopfrie sopfrie right0000
+sopfrie sopfrie up0000
+sopfrie sopfrie down0000
+sopfrie sopfrie left0000
+sopfrie sopfrie idle0000
+```
+
+We want to put these names in the box so that the game knows which area of the spritesheet has to grab. We also need to remove the 0's as those are unncessary.
+
+Lets use our example here, if our animation frame is **SingLEFT** then we put `sopfrie sopfrie left` in the **Animation on .XML/.TXT file** box. We repeat this for every other cordinating animation. 
+
+Once we complete this, we save our character and place this in our **character** folder. 
+
+### Lua Section
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
