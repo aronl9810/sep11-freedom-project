@@ -5,9 +5,7 @@
 
 Due to the sheer absurdly long blog, I've linked every chapter that is present in this blog.
 
-[Go to "Art Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#art-section)
-
-[Go to "Coding Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#coding-section)
+[Go to "Art Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#art-section) | [Go to "Coding Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#coding-section)
 
 ## Art Section
 With music finished, I got to the coding part of my freedom project. Now you may be asking. "But Aron, didn't you say that you are also gonna work on the sprites on the game? Why are you talking about coding now?". Great question fellow reader! There is a unique skill called [Collaboration](https://hstatsep.github.io/students/#skills) and [Commication](https://hstatsep.github.io/students/#skills). 
@@ -102,14 +100,16 @@ Of course, one setback is that I don't know how to code in Lua. I've only known 
 
 With this information in mind, I got set into learning Lua. I made sure that I can learn the basics of Lua functions until the 8th of April and make something by the 16th of April. My [organization](https://hstatsep.github.io/students/#skills) skills came in really handy since I decided to use [Trello](https://trello.com) for my plans and to keep me dated on my deadlines. 
 
+![image](../img/FreedomProject-8c.png)
+
 While learning from the crash course, I took a handful of notes down as well. This is a new language I'm learning so why not take the time to write down some notes. Who knows they maybe useful for the future.
 
 ![image](../img/FreedomProject-7c.png)
 
+I made this as the exact replica to what I'm familiar with as it worked for me. I've decided to stop when I reached the user inputs since what I learned before user inputs was basically the basic functions of Lua and I can learn the rest within my Beyond MVP. With this, I reached and completed my deadline on learning the basic functions of Lua. 
 
-[Return to "Art Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#art-section)
 
-[Return to "Coding Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#coding-section)
+[Return to "Art Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#art-section) | [Return to "Coding Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#coding-section)
 
 [Previous](entry04.md) | [Next](entry06.md)
 
