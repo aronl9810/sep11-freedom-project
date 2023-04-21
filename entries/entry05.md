@@ -87,7 +87,21 @@ Lets use our example here, if our animation frame is **SingLEFT** then we put `s
 
 Once we complete this, we save our character and place this in our **character** folder. 
 
-### Lua Section
+### Coding Section
+
+In Psych Engine, Lua is used to code scripts to trigger events in our game. ShadowMario was helpful enough to provide the [API page](https://github.com/ShadowMario/FNF-PsychEngine/wiki/Lua-Script-API) for anyone looking to code scripts into Psych Engine. 
+
+Of course, one setback is that I don't know how to code in Lua. I've only known Javascript, Python, and HTML so far but not Lua. What am I gonna do? Is this project over! NO! We search up a solution! Thanks to youtube, I was able to find a [crash course](https://youtu.be/1srFmjt1Ib0) of Lua by [Steve's teacher](https://www.youtube.com/@Stevesteacher). 
+
+With this information in mind, I got set into learning Lua. I made sure that I can learn the basics of Lua functions until the 8th of April and make something by the 16th of April. My [organization](https://hstatsep.github.io/students/#skills) skills came in really handy since I decided to use [Trello](https://trello.com) for my plans and to keep me dated on my deadlines. 
+
+While learning from the crash course, I took a handful of notes down as well. This is a new language I'm learning so why not take the time to write down some notes. Who knows they maybe useful for the future.
+
+![image](../img/FreedomProject-7c.png)
+
+
+
+
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
