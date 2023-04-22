@@ -186,7 +186,7 @@ end
 
 Now to fix our last issue, we need to get rid of the text after a certain time. 
 
-### Engineer Design Progress
+## Engineer Design Progress
 
 [Return to "Art Section"](#art-section) | [Return to "Coding Section"](#coding-section) | [Return to "EDP"](#engineer-design-progress)
 
