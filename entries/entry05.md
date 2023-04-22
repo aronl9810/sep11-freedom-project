@@ -184,9 +184,43 @@ function onSongStart()
 end
 ```
 
-Now to fix our last issue, we need to get rid of the text after a certain time. 
+Now to fix our last issue, we need to get rid of the text after a certain time. There is a function called `removeLuaText` but we cannot place it in our `onSongStart` because that is only triggered once and that is when the song starts. We need some kind of function that can constantly run.
+
+Lucky for me, there is a function called `onUpdate`. This function states that it will constantly run when there is a "update" to the game but it is a function that will constantly run based on your FPS to my knowledge.
+
+Now I need some way to remove the text at a certain time. So I went back into the variable documentation and found `curStep`. When I tested this out with debugPrint on the `onUpdate` function, it seems that it is based on the row of squares in the chart editor. I tested and created this.
+
+```lua
+function onUpdate(elapsed)
+    if curStep == 30 then
+        removeLuaText("songintro" , destroy == false)
+    end
+end
+```
+
+And if we combine this together, this is the final result.
+
+```lua
+function onSongStart()
+    if songName == "calmingdead" then
+        makeLuaText("songintro","CalmingDead by TRGGB2", 400, 800, 600)
+        setTextSize("songintro", 30)
+        addLuaText("songintro")
+    end
+end
+
+function onUpdate(elapsed) -- On FPS 
+    if curStep == 30 then
+        removeLuaText("songintro" , destroy == false)
+    end
+end
+```
+
+Although its short, I think this proves that I could do way more with the Psych Engine. With this set and pushed onto github, the MVP is completed. 
 
 ## Engineer Design Progress
+
+I'm currently at the 8th stage of the Engineer Design Process which is "Coommunicate the results" with my MVP. When I get to go beyond MVP, the stage of my EDP will go back to 4 (Plan the most promising solution) as I need to perfect my freedom project and making it look like a finished product. 
 
 [Return to "Art Section"](#art-section) | [Return to "Coding Section"](#coding-section) | [Return to "EDP"](#engineer-design-progress)
 
