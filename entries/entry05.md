@@ -5,7 +5,7 @@
 
 Due to the sheer absurdly long blog, I've linked every chapter that is present in this blog.
 
-[Go to "Art Section"](#art-section) | [Go to "Coding Section"](#coding-section)
+[Go to "Art Section"](#art-section) | [Go to "Coding Section"](#coding-section) | [Go to "EDP"](#engineer-design-progress)
 
 ## Art Section
 With music finished, I got to the coding part of my freedom project. Now you may be asking. "But Aron, didn't you say that you are also gonna work on the sprites on the game? Why are you talking about coding now?". Great question fellow reader! There is a unique skill called [Collaboration](https://hstatsep.github.io/students/#skills) and [Commication](https://hstatsep.github.io/students/#skills). 
@@ -168,9 +168,27 @@ function onSongStart()
 end
 ```
 
+Surely with all this I am done right? Well wrong, there are 2 issues. One issue is that the text will not disappear at a certain time and the text is wayyyy to tiny.
 
+![image](../img/FreedomProject-9c.png)
 
-[Return to "Art Section"](#art-section) | [Return to "Coding Section"](#coding-section)
+We will first fix the simple issue which is the text size. Fortunately, there is a specific function which is `setTextSize`. This function has 2 parameters. Of course one of the parameters which is the tag and the other is the size of the text. With this in mind, we can make the text bigger!
+
+```lua
+function onSongStart()
+    if songName == "calmingdead" then
+        makeLuaText("songintro","CalmingDead by TRGGB2", 400, 800, 600)
+        setTextSize("songintro", 30)
+        addLuaText("songintro")
+    end
+end
+```
+
+Now to fix our last issue, we need to get rid of the text after a certain time. 
+
+### Engineer Design Progress
+
+[Return to "Art Section"](#art-section) | [Return to "Coding Section"](#coding-section) | [Return to "EDP"](#engineer-design-progress)
 
 [Previous](entry04.md) | [Next](entry06.md)
 
