@@ -5,7 +5,7 @@
 
 Due to the sheer absurdly long blog, I've linked every chapter that is present in this blog.
 
-[Go to "Art Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#art-section) | [Go to "Coding Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#coding-section)
+[Go to "Art Section"](#art-section) | [Go to "Coding Section"](#coding-section)
 
 ## Art Section
 With music finished, I got to the coding part of my freedom project. Now you may be asking. "But Aron, didn't you say that you are also gonna work on the sprites on the game? Why are you talking about coding now?". Great question fellow reader! There is a unique skill called [Collaboration](https://hstatsep.github.io/students/#skills) and [Commication](https://hstatsep.github.io/students/#skills). 
@@ -117,9 +117,60 @@ Before you start coding, you of course want to make a lua file. This lua file wi
 I've also taken the time to search up any tutorials that will help me with the coding process. Lucky for me though, there are tutorials out there made by fellow community members. I looked specifically into this playlist [here](https://www.youtube.com/playlist?list=PL60i09WIEpP0MZOzNLf1UKeYvluh8_-UQ).
 
 
+I want to make something simple so I decided to make a simple text that will show the song name and who composed it. I don't want it to be very complex yet as that is saved for my beyond MVP. 
+
+I looked into the functions list and found a specific command that will work perfectly.
+
+```lua
+function onSongStart()
+	-- Inst and Vocals start playing, songPosition = 0
+end
+```
+
+Once I found the functions, I took a look into the variables [list](https://github.com/ShadowMario/FNF-PsychEngine/wiki/Lua-Script-API:-Variables). Since the lua file will trigger on all the songs, I need a if statement to check if the song name matches. Thankfully, there is a variable that stores the song name which is `songName`
+
+```
+songName - Shortcut to getProperty('SONG.song')
+```
+
+With these 2 in mind, I got into working on the code and this is the result.
+
+```lua
+function onSongStart()
+    if songName == "calmingdead" then
+        debugPrint("Your code works!")
+    end
+end
+```
+
+If you are wondering, `debugPrint` works similarly to `console.log` on javascript. It will act as a miniconsole in-game. 
+
+Now we need a text that will display on the screen of what it needs to be said. I looked into the documentation and found the [custom text documentation](https://github.com/ShadowMario/FNF-PsychEngine/wiki/LUA-Script-API:-Custom-Text). 
+
+When generating a custom text in Psych Engine, you need to create the text using the `makeLuaText()` function. There are 5 parameters that are needed.
+
+```
+tag : What will be used to call this specific text
+text : Your custom text obviously.
+width : How big/small you want your text to be.
+x : The x position of the text. (Follows similar rules to p5js)
+y : The y position of the text. (Follows similar rules to p5js)
+```
+
+With these parameters in mind, we also want to spawn the text. We made the text but we haven't told Psych Engine to spawn it in the song. In order to spawn the text in our song, we need to use the `addLuaText` function. This function only needs one parameter which is the tag. We need to match the tag with the text we made.
+
+```lua
+function onSongStart()
+    if songName == "calmingdead" then
+        makeLuaText("songintro","CalmingDead by TRGGB2", 400, 800, 600)
+        addLuaText("songintro")
+    end
+end
+```
 
 
-[Return to "Art Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#art-section) | [Return to "Coding Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#coding-section)
+
+[Return to "Art Section"](#art-section) | [Return to "Coding Section"](#coding-section)
 
 [Previous](entry04.md) | [Next](entry06.md)
 
