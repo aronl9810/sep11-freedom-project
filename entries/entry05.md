@@ -108,6 +108,16 @@ While learning from the crash course, I took a handful of notes down as well. Th
 
 I made this as the exact replica to what I'm familiar with as it worked for me. I've decided to stop when I reached the user inputs since what I learned before user inputs was basically the basic functions of Lua and I can learn the rest within my Beyond MVP. With this, I reached and completed my deadline on learning the basic functions of Lua. 
 
+With Lua to my knowledge, I headed straight to making something using Lua. I only had a week to complete it so it was a good time window to try and experiment what crazy stuff I can make using Lua. 
+
+That being said, how Psych Engine uses Lua is with functions. Each function has its own purpose as shown [here](https://github.com/ShadowMario/FNF-PsychEngine/blob/main/docs/TemplateScript.lua).
+
+Before you start coding, you of course want to make a lua file. This lua file will trigger the entire song unless you specified it in the code itself. You want to place this in your **scripts** folder and placing the lua file there.
+
+I've also taken the time to search up any tutorials that will help me with the coding process. Lucky for me though, there are tutorials out there made by fellow community members. I looked specifically into this playlist [here](https://www.youtube.com/playlist?list=PL60i09WIEpP0MZOzNLf1UKeYvluh8_-UQ).
+
+
+
 
 [Return to "Art Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#art-section) | [Return to "Coding Section"](https://github.com/aronl9810/sep11-freedom-project/blob/main/entries/entry05.md#coding-section)
 
