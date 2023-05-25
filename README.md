@@ -15,7 +15,7 @@ The content of the blog will show you the journey of making this mod and all the
 
 ## Implications
 
-### Social
+### <u>Social</u>
 
 **Individual**
 
@@ -29,7 +29,7 @@ The game is solely singleplayer so there is to co-op experience here. There shou
 
 I know some cultures do not like dead characters like ghost for example so that is definitely a thing to consider. However, I think it should be fine as the game doesn't promote any scaring or any kind of scary stuff such as creepypastas or whatever. 
 
-### Economics
+### <u>Economics</u>
 
 **Jobs**
 
