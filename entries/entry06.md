@@ -1,5 +1,5 @@
 # Entry 6
-##### X/X/XX
+## The End. Time for the Expo and lets conclude here! 5/25/2023
 
 Text
 
