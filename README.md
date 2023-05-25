@@ -9,9 +9,9 @@ For my project, I am making a Friday Night Funkin mod using Psych Engine. This b
 
 ## Links
 
-Product
+[Product](https://github.com/aronl9810/FNF-VsSopfrie)
 
-Presentation
+[Presentation](https://docs.google.com/presentation/d/15odSF1TtFE_rqf7br42ADlkGIHSujkfWkqdgPM61UbU/edit)
 
 ## Implications
 To create this Friday Night Funkin Mod, I will be using Psych Engine (Made by ShadowMario) as my base for my mod. Psych Engine has proven to be a huge beginner friendly mod as all of the features has been improved to be friendlier for modder upon the base game.
