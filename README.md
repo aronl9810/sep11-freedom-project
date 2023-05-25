@@ -2,10 +2,10 @@
 by Aron Lin
 
 ## Context
-The "Freedom Project" for SEP11 is all about me making a game mod. The purpose of this blog is to demonstate how I was able to make the mod and the challenges I faced during my journey of making this mod.
+The purpose of my freedom project is to challenge myself by doing something different but to also create a game for everyone to play. I wanted this challenge as the more challenging the task is, the more fun I have and have the dedication to make the final product. I went over beyond by making my own Music, Art , and learning a new coding language. Some art like the sprite were created by Dice.
 
 ## Content
-For my project, I am making a Friday Night Funkin mod using Psych Engine. This blog will walk through my process of independently studying of Lua in order to make this mod.
+The content of the blog will show you the journey of making this mod and all the challenges I faced. This will include all the processes and the relevent code information. To start viewing the blog, scroll down and select **Blog Entry 1**.
 
 ## Links
 
@@ -14,11 +14,26 @@ For my project, I am making a Friday Night Funkin mod using Psych Engine. This b
 [Presentation](https://docs.google.com/presentation/d/15odSF1TtFE_rqf7br42ADlkGIHSujkfWkqdgPM61UbU/edit)
 
 ## Implications
-To create this Friday Night Funkin Mod, I will be using Psych Engine (Made by ShadowMario) as my base for my mod. Psych Engine has proven to be a huge beginner friendly mod as all of the features has been improved to be friendlier for modder upon the base game.
 
-I will also use Ableton recommended by Longestsoloever to create the instrumentals and the vocals for my song and the XML generator to create my spritesheet.
+### Social
 
-On top of that, I will learn a new coding language which is Lua. I will use my knowledge of Javascript and Python to help me out here. 
+**Individual**
+
+As a individual, people will find this game to be fun. The only downside I see here is addiction but how the game stateis already is, there should be no addiction because once you complete the song that is it. 
+
+**Relationship**
+
+The game is solely singleplayer so there is to co-op experience here. There should be no harm in relationship here at all. The only argument I see here is addiction but refer back to what I said with individual. There should be no addiction that can affect relationships. 
+
+**Culture**
+
+I know some cultures do not like dead characters like ghost for example so that is definitely a thing to consider. However, I think it should be fine as the game doesn't promote any scaring or any kind of scary stuff such as creepypastas or whatever. 
+
+### Economics
+
+**Jobs**
+
+Now for me, I think making this game could show signs I can get into a job that involves the game industry. However, this game could definitely cannot grant me into the game industry right away but show progression. This can apply to any new game programmer / designer. You need to start somewhere.
 
 ---
 
