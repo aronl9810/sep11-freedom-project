@@ -39,9 +39,9 @@ Now for me, I think making this game could show signs I can get into a job that 
 
 ---
 
-* [Blog Entry 1](entries/entry01.md)
-* [Blog Entry 2](entries/entry02.md)
-* [Blog Entry 3](entries/entry03.md)
-* [Blog Entry 4](entries/entry04.md)
-* [Blog Entry 5](entries/entry05.md)
-* [Blog Entry 6](entries/entry06.md)
+* [Entry 1 : Lets do this!](entries/entry01.md)
+* [Entry 2 : Getting to know the Psych Engine.](entries/entry02.md)
+* [Entry 3 : The choice of Music Software.](entries/entry03.md)
+* [Entry 4 : Lets make some music shall we.](entries/entry04.md)
+* [Entry 5 : Sprites and Code. Two in one combo!](entries/entry05.md)
+* [Entry 6 : The End. Time for the Expo and lets conclude here!](entries/entry06.md)
