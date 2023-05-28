@@ -63,6 +63,16 @@ With Beyond MVP concluded, lets talk about the presentation!
 
 ## Presentation
 
+**[Go to Presentation](https://docs.google.com/presentation/d/15odSF1TtFE_rqf7br42ADlkGIHSujkfWkqdgPM61UbU/edit?usp=sharing)**
+
+With all projects, there is a time where we need to present our projects. That is where presentations come in. I had to keep the projects minimally viable so that I don't spend too much slide perfecting a single slide or 2. This means that most of my slides are just basically simple colors and just information on the slide.
+
+Luckily, I had time left so I used that time to put some finishing touches to the presentation such as images and color. This gave the presentation some extra touches to make it look stunning to look at. 
+
+When it was time to present, I noticed some big flaws when presenting. One of which was the presentation was way to long. The presentation took nearly 20 minutes. This sadly drew away the attention of some students which is not a good sign. Second is that my energy is all over the place. There are some moments where there is a hype and serious moment but it was all over the place.
+
+I definitely could remove some slides that are pretty much unnecessary to shorten the presentation length as well as keeping the hype and the seriousness of the presentation at a consistancy. There should be a middle ground where I can show these. 
+
 ## Expo
 
 
