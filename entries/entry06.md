@@ -75,7 +75,17 @@ I definitely could remove some slides that are pretty much unnecessary to shorte
 
 ## Expo
 
+[Go to SEP11 Notes](https://docs.google.com/document/d/1QJJ74wulfx6P6wQqN4UDSmhgRBHlJPRa8VLQA1-Fbgg/edit?usp=sharing)
 
+With the Expo at date, we need some kind of elevator pitch to quickly present our product. This is basically like a short explanation of the product which we will be presenting to the judges. 
+
+I started off my rough draft of my elevator pitch and ended up sticking with it till the Expo date. I decided to cut out the video tutorial on my elevator pitch in favor of more of my process. I felt like the video tutorial was too complicated for the judges so I basically explained how to play the game on the elevator pitch. I made sure that it was simple enough and it worked out!
+
+My only problem is sometimes I change information on my elevator pitch. This is something I noticed when giving out elevator pitches. I tend to show information on this part but on other pitchs I show information somewhere else. This leads to inconsistancy which is a problem here. I should definetly stick to a consistant level where the information needs to be presented orderly. 
+
+## EDP
+
+Last blog, I've discussed about me being in the [4th stage of my EDP](https://hstatsep.github.io/students/#edp). Although I haven't completed all of my Beyond MVP's, I would give this a solid 7th stage of my EDP which is [Improve as Needed](https://hstatsep.github.io/students/#edp). The game could definitely be better with better music and vocals to top it off. 
 
 [Previous](entry05.md) | [Next](entry07.md)
 
