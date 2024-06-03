@@ -1,6 +1,8 @@
 # SEP11 Freedom Project
 by Aron Lin
 
+**Position:** Finalist
+
 ## Context
 The purpose of my freedom project is to challenge myself by doing something different but to also create a game for everyone to play. I wanted this challenge as the more challenging the task is, the more fun I have and have the dedication to make the final product. I went over beyond by making my own Music, Art , and learning a new coding language. Some art like the sprite were created by Dice.
 
